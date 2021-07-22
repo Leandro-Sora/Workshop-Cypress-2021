@@ -1,0 +1,9 @@
+{
+    "firstname": "teste",
+    "lastname": "teste",
+    "endereço": "Teste",
+    "cidade": "Teste",
+    "cep": "B771AA",
+    "telefone": "11900000001",
+    "email": "teste@cypress.com.br"
+  }
